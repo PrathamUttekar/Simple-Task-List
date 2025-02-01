@@ -9,6 +9,7 @@ Welcome to the Task Management System repository! This project is a Python-based
 - List Tasks: View all your tasks in an organized manner.
 - Prioritize Tasks: Automatically prioritize tasks based on importance and deadlines.
 - Task Recommendations: Receive personalized task suggestions using machine learning algorithms.
+- Task Filtering: Filter tasks by priority, deadline, or category for efficient task management.
 
 ## Technologies Used
 
